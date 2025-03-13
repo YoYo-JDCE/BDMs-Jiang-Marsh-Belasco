@@ -20,5 +20,5 @@ One only needs to run the code file Mulchpaper.m to get the results <br />
 This folder lists codes for the results in Tables 4, 5, C1, and C2 and Figure C1 <br />
 One only needs to run the code file MulchpaperExtension.m to get the results <br />
 
-##Mulch Paper Risk Aversion plot.ipynb
+## Mulch Paper Risk Aversion plot.ipynb
 Figure 3 is developed by running the Python Script Mulch Paper Risk Aversion plot.ipynb
